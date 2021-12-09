@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: aritranagnordcloud-hackathon-esp-code
+  annotations:
+    github.com/project-slug: aritranagnordcloud/aritranagnordcloud-hackathon-esp-code
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage
